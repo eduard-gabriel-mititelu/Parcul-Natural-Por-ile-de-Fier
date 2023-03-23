@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.col-50 {
+    width: 45%;
+}
+
+.pl {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+}
